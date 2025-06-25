@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <img src="https://i.ibb.co/Dfdyq9Cj/github-header-image.png" alt="Banner" style="width:100%; border-radius: 10px;" />
 
-<h1 align="center">Hi 👋, I'm Ruhul Amin</h1>
+<h1 align="center">Hi 👋, I'm Rifat</h1>
 <h3 align="center">Front-End Web Developer</h3>
 
 ---
